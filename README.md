@@ -97,5 +97,5 @@ I will continue focusing on how can i use semantic tags in meaningfull way and a
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ayush111222)
+- Frontend Mentor - [@ayush111222](https://www.frontendmentor.io/profile/ayush111222)
 
